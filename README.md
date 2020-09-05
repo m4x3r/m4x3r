@@ -14,4 +14,8 @@
 
 
 ## Github Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=m4x3r1337&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=m4x3r1337&show_icons=true&theme=vue">
+
+## Repositories
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rfoxxxyshit&repo=aye-ahk-loader&show_owner=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4x3r1337&repo=m4x3r1337.github.io&theme=vue">
