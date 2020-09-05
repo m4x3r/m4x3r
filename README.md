@@ -18,4 +18,5 @@
 
 ## Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rfoxxxyshit&repo=aye-ahk-loader&show_owner=true&theme=vue"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=m4x3r1337&repo=m4x3r1337.github.io&theme=vue">
+[![AYE Loader](https://github-readme-stats.vercel.app/api/pin/?username=rfoxxxyshit&repo=aye-ahk-loader&show_owner=true&theme=vue)](https://github.com/rfoxxxyshit/aye-ahk-loader) 
+[![My website](https://github-readme-stats.vercel.app/api/pin/?username=m4x3r1337&repo=m4x3r1337.github.io&theme=vue)](https://github.com/m4x3r1337/m4x3r1337.github.io) 
