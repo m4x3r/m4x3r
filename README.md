@@ -14,8 +14,8 @@
 
 
 ## Github Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=m4x3r1337&show_icons=true&theme=vue)
+![Stats](https://github-readme-stats.vercel.app/api?username=m4x3r&show_icons=true&theme=vue)
 
 ## Repositories 🛠
 [![AYE Loader](https://github-readme-stats.vercel.app/api/pin/?username=clangremlini&repo=aye-ahk-loader&show_owner=true&theme=vue)](https://github.com/clangremlini/aye-ahk-loader) 
-[![My website](https://github-readme-stats.vercel.app/api/pin/?username=m4x3r1337&repo=m4x3r1337.github.io&theme=vue)](https://github.com/m4x3r1337/m4x3r1337.github.io) 
+[![My website](https://github-readme-stats.vercel.app/api/pin/?username=m4x3r&repo=m4x3r.github.io&theme=vue)](https://github.com/m4x3r/m4x3r.github.io) 
