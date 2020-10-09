@@ -7,7 +7,7 @@
 ## Pages 💻
   [![Website](https://img.shields.io/badge/website-369?style=flat-square&logo=safari&logoColor=white)](https://m4x3r.xyz)
   [![VK](http://img.shields.io/badge/vk-page-369?style=flat-square&logo=vk&logoColor=white)](https://vk.com/m4x3r228)
-  [![Telegram](http://img.shields.io/badge/tg-profile-369?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m4x3r1337)
+  [![Telegram](http://img.shields.io/badge/tg-profile-369?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m4x3r228)
 
 ## My stack 👨🏾‍💻
 ![AutoHotkey](https://img.shields.io/badge/-AHK-%425442?style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-%23de4b25?style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-%230174b8?style=flat-square) ![Git](https://img.shields.io/badge/-Git-%23ea4f32?style=flat-square)
