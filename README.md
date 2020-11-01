@@ -26,6 +26,6 @@
 
 <h2 align="center">Repositories 🛠</h2>
 <p align="center">
-<a href="https://github.com/clangremlini/aye-ahk-loader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=clangremlini&repo=fet-loader&show_owner=true"> </img></a>
+<a href="https://github.com/clangremlini/fet-loader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=clangremlini&repo=fet-loader&show_owner=true"> </img></a>
 <a href="https://github.com/m4x3r/m4x3r.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=m4x3r&repo=m4x3r.github.io"> </img></a>
 </p>
